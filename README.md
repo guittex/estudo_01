@@ -1,4 +1,4 @@
-# 1 Passos - Configuração e instalação do Projeto
+# 1 Passo - Configuração e instalação do Projeto
 - Clonar o projeto para o ambiente local
 - Duplicar o arquivo .env.example
 - Executar o comando "php artisan key:generate"
@@ -6,9 +6,9 @@
 - Renomear o arquivo duplicado para .env
 - Realizar as configurações do arquivo ".env" para se conectar com o banco de dados local
 
-# 2 Passos - Seguir para as atividades em aberto na aba Issues 
+# 2 Passo - Seguir para as atividades em aberto na aba Issues 
 
-# 3 Passos - Realizar os commits, os pushes 
+# 3 Passo - Realizar os commits, os pushes 
 
 ## Licença
 [MIT license](https://opensource.org/licenses/MIT).
